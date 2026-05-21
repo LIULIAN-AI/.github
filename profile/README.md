@@ -8,7 +8,7 @@
 
 <br>
 
-[![demo](https://img.shields.io/badge/▶_try_the_web_demo-E20613?style=for-the-badge&labelColor=131313)](https://github.com/liulian-ai/liulian-web/blob/main/web-demo.html)
+[![demo](https://img.shields.io/badge/▶_try_the_web_demo-E20613?style=for-the-badge&labelColor=131313)](https://liulian-ai.github.io/liulian-web/web-demo.html)
 [![docs](https://img.shields.io/badge/📖_federation_docs-131313?style=for-the-badge)](https://github.com/liulian-ai/liulian-docs)
 [![python](https://img.shields.io/badge/🧪_ML_core-E20613?style=for-the-badge&labelColor=131313)](https://github.com/liulian-ai/liulian-python)
 
@@ -81,7 +81,7 @@ LIULIAN is an intentional multi-repo split. Each repo owns one technology stack 
 
 | If you are a … | Open … |
 |---|---|
-| **First-time visitor** | the [single-file web demo](https://github.com/liulian-ai/liulian-web/blob/main/web-demo.html) — no install, just download + open |
+| **First-time visitor** | the [single-file web demo](https://liulian-ai.github.io/liulian-web/web-demo.html) — no install, just download + open |
 | **ML researcher** | the [Python core](https://github.com/liulian-ai/liulian-python) — adapter contract + manifest spec + datasets catalog |
 | **Product / advisor reviewer** | the [user stories](https://github.com/liulian-ai/liulian-docs/tree/main/docs/user-stories) — six codenamed flows (Doorway · Annotated Drop · First Light · Pencil · Graft · Easel), each in three modes |
 | **Infra / DevOps** | [`liulian-dev-env`](https://github.com/liulian-ai/liulian-dev-env) (local stack) and [`liulian-ops`](https://github.com/liulian-ai/liulian-ops) (deploy + cost ledger) |
